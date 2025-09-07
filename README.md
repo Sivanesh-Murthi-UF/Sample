@@ -16,7 +16,7 @@ Getting Started
 
 Clone this repository
 
-git clone https://github.com/Sivanesh-Murthi-UF/Sample-repo.git
+git clone https://github.com/Sivanesh-Murthi-UF/Sample.git
 cd Sample-repo
 
 
